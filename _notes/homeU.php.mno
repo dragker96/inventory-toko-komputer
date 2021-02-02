@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_UM" value="name:kd_masuk;datatype:string,name:harga_beli;datatype:int,name:tgl_masuk;datatype:date" />
+	<infoitem key="UD_unit" value="name:id_unit;datatype:string,name:kategori;datatype:string,name:kondisi;datatype:string,name:nm_unit;datatype:string,name:harga;datatype:int,name:informasi;datatype:string,name:gambar_unit;datatype:string,name:kd_masuk;datatype:string" />
+</info>

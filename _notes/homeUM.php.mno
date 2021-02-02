@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_UM" value="name:kd_masuk;datatype:string,name:harga_beli;datatype:int,name:tgl_masuk;datatype:date" />
+</info>
